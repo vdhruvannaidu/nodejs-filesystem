@@ -15,8 +15,8 @@ This repository contains a Node.js script that monitors a specific file for chan
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/file-change-watcher.git
-    cd file-change-watcher
+    git clone https://github.com/vdhruvannaidu/nodejs-filesystem
+    cd filesystem-nodejs
     ```
 
 2. **Run the script:**
